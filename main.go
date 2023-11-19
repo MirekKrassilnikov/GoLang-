@@ -22,15 +22,6 @@ func main() {
 
 
 
-
-
-
-
-вааввав
-
-
-
-
 	/*
 	//SLICE CREATE
 	var columns int
